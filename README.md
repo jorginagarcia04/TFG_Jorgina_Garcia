@@ -29,5 +29,5 @@ This folder contains all scripts used for analysis of results and making of grap
 | Script file | Description | 
 | ----------------------------- | ----------------------- | 
 taxonomy_analysis.R | Script used to filter and process the taxonomy classification tables, calculate relative abundances and interpretate the results. | 
-abundance_graphs.R | Script used to make graphs to visually represent the results. | 
-pipeline_graphs.R | Scripts used to make graphs to show effectiveness of the bioinformatics pipeline. |
+abundance_graphs.R | Script used to make abundance graphs to visually represent the results. | 
+coverage_plotter.R | Scripts used to make genome coverage plots from alignments against a reference genome. |
