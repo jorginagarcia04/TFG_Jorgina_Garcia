@@ -28,6 +28,6 @@ This folder contains all scripts used for analysis of results and making of grap
 
 | Script file | Description | 
 | ----------------------------- | ----------------------- | 
-taxonomy_analysis.R | Script used to analyse results from kaiju of main metagenomic analysis. | 
+taxonomy_analysis.R | Script used to filter and process the taxonomy classification tables, calculate relative abundances and interpretate the results. | 
 abundance_graphs.R | Script used to make graphs to visually represent the results. | 
 pipeline_graphs.R | Scripts used to make graphs to show effectiveness of the bioinformatics pipeline. |
