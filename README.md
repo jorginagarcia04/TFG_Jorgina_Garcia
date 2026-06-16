@@ -3,6 +3,7 @@
 ### By: Jorgina Garcia Larroy
 
 ### Directed by: Dr Josep Quer Sivila
+### Supervised by: Marta Ibañez Lligoña
 
 ## Repository content
 ### Readme: 
